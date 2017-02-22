@@ -1,8 +1,7 @@
 #rv_semifl
-A Remote Viewing semi-frontloader.
+A remote viewing semi-frontloader
 
-																																																																																																																																																																																																																																																																																																																																																																																									A
-Generates random remote viewing target co-ordinates from a list of targets in a text file.
+selects random remote viewing target co-ordinates from a list of targets in a text file.
 
 #usage
 For practise against a list of _known_ targets, simply type each target onto a new line: it is important to keep your list diverse - too many similar targets may allow your imagination to invent pictures to fill in the gaps of what it _expects_ to see and will cloud your results.
